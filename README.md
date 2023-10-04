@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Luckynotrich
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning React, Git, Javascript, CSS, node, express, webpack
+- 👀 I’m interested in Full Stack web programming
+- 🌱 I’m currently learning Reactjs, nodejs/express, Javascript, SQL, CSS, scss/sass, Git...
 - 💞️ I’m looking to collaborate on public welfare projects
-- 📫 How to reach me on twitter @luckynotrich
+- 📫 How to reach me on Discord @luckynotrich
 
 <!---
 Luckynotrich/Luckynotrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
